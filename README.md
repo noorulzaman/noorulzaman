@@ -8,10 +8,10 @@
   <a href="https://noorulzaman.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mnoorulzaman/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:noorulzamantariq@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
