@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Noor Ul Zaman 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Applied+AI+%26+Deep+Learning;Building+Intelligent+Data-Driven+Systems;Turning+Data+into+Actionable+Insights;Exploring+LLMs+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=noorulzaman&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <p align="center">
